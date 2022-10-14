@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me:premjithbenny@yahoo.com
-- 🌱 I’m currently learning : Linux
+- 🌱 I’m currently learning : DevOps 
 - 😄 Pronouns: he/his
 
 <!--
