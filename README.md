@@ -11,7 +11,7 @@ I'm an experienced **MLOps and DevOps Engineer** with a strong background in dep
 
 ### 💻 Key Technologies
 - **AI Platforms**: Katonic AI, BigML
-- **Containerization & Orchestration**: Docker, Kubernetes (with NVIDIA Container Runtime)
+- **Containerization & Orchestration**: Docker, Kubernetes (with NVIDIA GPU Nodes )
 - **Infrastructure as Code**: Terraform
 - **CI/CD Tools**: Git, Jenkins, SonarQube, EKS
 - **Cloud**: AWS (EC2, VPC, Route 53, CloudFormation, CloudFront, Lambda)
