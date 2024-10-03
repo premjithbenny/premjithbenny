@@ -1,7 +1,3 @@
-Here’s a tailored version of your GitHub `README.md` to match your MLOps and DevOps profile:
-
----
-
 # Hi there 👋, I'm Premjith
 
 I'm an experienced **MLOps and DevOps Engineer** with a strong background in deploying and maintaining AI models and microservices within Kubernetes environments. I specialize in integrating machine learning with infrastructure using **NVIDIA's AI Stack** and have hands-on experience with **NVIDIA hardware** like DGX, IGX, and Jetson devices.
@@ -29,11 +25,4 @@ I'm an experienced **MLOps and DevOps Engineer** with a strong background in dep
 ### 📫 How to Reach Me
 - Email: premjithbenny@yahoo.com
 
-### 😄 Pronouns
-- he/his
 
-Feel free to explore my projects and repositories, where I focus on integrating AI with DevOps practices and deploying machine learning models at scale!
-
----
-
-This version aligns with your professional experience and highlights your key strengths. Let me know if you'd like any adjustments!
